@@ -3,10 +3,10 @@ class Classe
     Intitule;
     listeStagiaire;
 
-    
-    constructor()
+
+    constructor(new(Array)(Intitule="",listeStagiaire=""))
     {
-            this
-            this
+            this.Intitule = DWWM;
+            this.listeStagiaire = ;
     }
 }
