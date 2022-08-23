@@ -1,9 +1,8 @@
-class classe
+class listeStagiaire
 {
-    listeStagiaire()
+    constructor()
     {
-        
+            this
+            this
     }
-    
-
 }
